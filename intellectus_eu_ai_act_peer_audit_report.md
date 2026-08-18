@@ -17,9 +17,9 @@ Article 5: no prohibited practice is evidenced in the documented consulting work
 
 Annex III: no listed high-risk area is evidenced. The system prepares organisation-level consulting analysis and does not decide a natural person's access to employment, education, credit, benefits, law enforcement treatment, migration status, justice, or democratic participation. The consultant retains judgment over whether and how to use the generated material, and the documented system does not itself determine individual eligibility, access, employment, credit, or other Annex III consequential outcomes.
 
-Article 50: relevant. The consultant interacts with the system and receives generated findings, questions, recommendations, KPIs, and roadmap content, so transparency obligations apply to the AI-supported interaction and any published generated text.
+Article 50: potentially relevant if the production system uses an AI component to generate or transform substantive content. The applicable disclosure or output-marking duties depend on that functionality and on how generated material is used or published.
 
-Boundary / uncertainty: this conclusion holds only while Intellectus remains advisory and preparatory. If the output is repurposed for consequential individual decisions, the tier must be reassessed.
+Boundary / uncertainty: this conclusion assumes that the production implementation qualifies as an AI system under Article 3(1). If it remains entirely deterministic, legal review may conclude that it falls outside that definition; if its output is repurposed for consequential individual decisions, the tier must be reassessed.
 
 Based on the documented current use, the high-risk provider checklist and related conformity-assessment, CE-marking, and Annex III registration requirements do not appear to apply; this must be reassessed if the intended use changes.
 
@@ -27,7 +27,7 @@ Based on the documented current use, the high-risk provider checklist and relate
 
 | Role | Entity | Key obligations / considerations |
 | --- | --- | --- |
-| Provider / downstream provider | Gretel and Paola's team; any future Intellectus entity that materially repackages or redistributes the system would need to re-check downstream provider duties | Implement Article 50 disclosure and applicable output marking; document purpose, limits, and vendors; ensure AI literacy under Article 4. |
+| Provider / downstream provider | Gretel and Paola's team; any future Intellectus entity that materially repackages or redistributes the system would need to re-check downstream provider duties | If the production implementation qualifies as an AI system, implement applicable Article 50 disclosure and output marking; document purpose, limits, and vendors; ensure AI literacy under Article 4. |
 | Deployer | Consulting firm or professional consultant | Follow instructions, review client-facing content, ensure AI literacy, and disclose in-scope published AI text under Article 50(4). |
 | AI/model and research vendors | Not identified / unconfirmed | Meet duties applying to their systems and provide downstream technical and provenance information. |
 | Infrastructure vendors | n8n and future hosting, gateway, logging, and storage providers | May be GDPR processors or sub-processors requiring contracts and security controls. |
@@ -39,7 +39,7 @@ Impacted stakeholders: the client, consultant, and identifiable people mentioned
 Finding 1 — AI transparency and output provenance
 
 Severity: Significant
-Description: The interface shows a Demo indicator but no verified Article 50(1) AI notice. The system generates analytical text, yet the responsible Article 50(2) provider and machine-readable provenance mechanism are undocumented. Article 50(4) may apply to published public-interest text without qualifying human editorial review.
+Description: The interface shows a Demo indicator but no verified AI notice. If the production AI component generates or transforms substantive analytical text, the applicable Article 50 disclosure duties, responsible provider, and machine-readable provenance mechanism must be established. Article 50(4) may apply to published public-interest text without qualifying human editorial review.
 Recommended action: Disclose AI use before submission and on reports. Identify the model/provider, test machine-readable marking through the workflow, and define a publication-disclosure rule.
 Escalation needed? Yes — AI regulatory counsel and the model vendor.
 
