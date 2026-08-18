@@ -1,6 +1,6 @@
 Intellectus — Peer-Audit Evidence and Clarifying-Questions Log
 
-Auditor: Elza Paegle
+Auditors: Marija Kavaliauskaite and Elza Paegle
 Project builders: Gretel and Paola
 Project audited: Intellectus — Social Impact Intelligence
 Review date: 18 August 2026

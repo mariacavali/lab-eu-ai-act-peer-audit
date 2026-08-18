@@ -1,6 +1,6 @@
 Intellectus — Peer-Audit Debrief and Remediation Work Plan
 
-Auditor: Elza Paegle
+Auditors: Marija Kavaliauskaite and Elza Paegle
 Builders: Gretel and Paola
 Project: Intellectus — Social Impact Intelligence
 
@@ -42,7 +42,7 @@ Tier
 
 Basis
 
-Elza's independent peer audit
+Marija and Elza's independent peer audit
 
 Limited risk / transparency
 

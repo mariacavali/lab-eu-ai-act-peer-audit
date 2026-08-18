@@ -10,7 +10,7 @@ This repository contains everything you need for this lab.
 
 **Project:** Intellectus — Social Impact Intelligence  
 **Project builders:** Gretel and Paola  
-**Auditor:** Elza Paegle
+**Auditors:** Marija Kavaliauskaite and Elza Paegle
 
 All three deliverables below use the finalized markdown filenames in this repository.
 

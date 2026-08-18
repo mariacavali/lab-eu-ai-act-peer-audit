@@ -1,6 +1,6 @@
 Intellectus — Independent EU AI Act Peer-Audit Report
 
-Auditor: Elza Paegle
+Auditors: Marija Kavaliauskaite and Elza Paegle
 Project builders: Gretel and Paola
 Date: 18 August 2026
 Recommendation: Proceed with conditions
