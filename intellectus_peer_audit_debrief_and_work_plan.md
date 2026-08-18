@@ -54,7 +54,11 @@ Gretel and Paola's self-audit
 
 [TO COMPLETE AFTER LIVE DEBRIEF]
 
-Agreement or disagreement and reason:
+Areas of agreement:
+
+[TO COMPLETE AFTER LIVE DEBRIEF]
+
+Areas of disagreement and reasons:
 
 [TO COMPLETE AFTER LIVE DEBRIEF] State whether any difference resulted from legal interpretation or missing information in the system brief.
 
@@ -72,13 +76,9 @@ Finding both audits identified:
 
 5. Joint closing note
 
-Discuss and edit the following draft together. Keep the final version to two or three sentences.
+Write the joint closing note together after the live debrief. Keep the final version to two or three sentences.
 
 [TO COMPLETE AFTER LIVE DEBRIEF]
-
-Draft only, not factual until revised jointly:
-
-Comparing the two audits showed that familiarity helped the builders explain Intellectus's evidence controls and intended human-review process, while the external review focused more quickly on what the documentation did not establish, especially vendor identity, AI disclosure, production security, and data retention. The exercise demonstrated that a strong technical safeguard is not enough unless an outside reviewer can see how it operates and who is accountable for it. Independent review therefore improved both the compliance analysis and the clarity of the system documentation.
 
 Part B — Stretch: work plan for the production-security finding
 

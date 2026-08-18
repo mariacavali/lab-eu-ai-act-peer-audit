@@ -160,7 +160,7 @@ Required to complete the provider/vendor map, assess international data transfer
 
 A third-party generative model and research service are integrated through n8n; their compliance cannot be verified from the current repository evidence.
 
-Open — written response required
+PENDING BUILDER RESPONSE
 
 2
 
@@ -170,7 +170,7 @@ Determines GDPR scope, lawful basis, privacy notice, minimisation, and DPIA scre
 
 Personal data may enter through free text or researched sources even though no dedicated personal-data fields exist.
 
-Open — written response required
+PENDING BUILDER RESPONSE
 
 3
 
@@ -180,7 +180,7 @@ Confirms whether human review is operationally enforceable and auditable rather 
 
 Review is expected and human-controlled, but the session-only MVP does not provide a durable approval log.
 
-Open — written response required
+PENDING BUILDER RESPONSE
 
 4
 
@@ -190,7 +190,7 @@ A new intended purpose could change the Annex III classification and obligations
 
 Use is restricted to organisation-level consulting and client-conversation preparation.
 
-Open — written response required
+PENDING BUILDER RESPONSE
 
 5
 
@@ -200,7 +200,7 @@ Determines compliance with Article 50(1), 50(2), and potentially 50(4).
 
 No adequate AI disclosure or provenance mechanism is evidenced; the Demo indicator is not sufficient.
 
-Open — written response required
+PENDING BUILDER RESPONSE
 
 Sources for the legal test
 

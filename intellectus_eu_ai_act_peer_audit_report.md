@@ -15,51 +15,24 @@ First-pass tier: limited risk / transparency.
 
 Article 5: no prohibited practice is evidenced in the documented consulting workflow.
 
-Annex III: no listed high-risk area is evidenced. The system prepares organisation-level consulting analysis and does not decide a natural person's access to employment, education, credit, benefits, law enforcement treatment, migration status, justice, or democratic participation.
+Annex III: no listed high-risk area is evidenced. The system prepares organisation-level consulting analysis and does not decide a natural person's access to employment, education, credit, benefits, law enforcement treatment, migration status, justice, or democratic participation. The consultant retains judgment over whether and how to use the generated material, and the documented system does not itself determine individual eligibility, access, employment, credit, or other Annex III consequential outcomes.
 
 Article 50: relevant. The consultant interacts with the system and receives generated findings, questions, recommendations, KPIs, and roadmap content, so transparency obligations apply to the AI-supported interaction and any published generated text.
 
 Boundary / uncertainty: this conclusion holds only while Intellectus remains advisory and preparatory. If the output is repurposed for consequential individual decisions, the tier must be reassessed.
 
-The high-risk provider checklist is therefore not applicable on the evidence reviewed. No conformity assessment, CE marking, or Annex III registration is required for the documented purpose.
+Based on the documented current use, the high-risk provider checklist and related conformity-assessment, CE-marking, and Annex III registration requirements do not appear to apply; this must be reassessed if the intended use changes.
 
 3. Role map
 
-Role
+| Role | Entity | Key obligations / considerations |
+| --- | --- | --- |
+| Provider / downstream provider | Gretel and Paola's team; any future Intellectus entity that materially repackages or redistributes the system would need to re-check downstream provider duties | Implement Article 50 disclosure and applicable output marking; document purpose, limits, and vendors; ensure AI literacy under Article 4. |
+| Deployer | Consulting firm or professional consultant | Follow instructions, review client-facing content, ensure AI literacy, and disclose in-scope published AI text under Article 50(4). |
+| AI/model and research vendors | Not identified / unconfirmed | Meet duties applying to their systems and provide downstream technical and provenance information. |
+| Infrastructure vendors | n8n and future hosting, gateway, logging, and storage providers | May be GDPR processors or sub-processors requiring contracts and security controls. |
 
-Entity
-
-Principal obligations
-
-Provider / downstream provider
-
-Gretel and Paola's team; any future Intellectus entity that materially repackages or redistributes the system would need to re-check downstream provider duties
-
-Implement Article 50 disclosure and applicable output marking; document purpose, limits, and vendors; ensure AI literacy under Article 4.
-
-Deployer
-
-Consulting firm or professional consultant
-
-Follow instructions, review client-facing content, ensure AI literacy, and disclose in-scope published AI text under Article 50(4).
-
-AI/model and research vendors
-
-Not identified / unconfirmed
-
-Meet duties applying to their systems and provide downstream technical and provenance information.
-
-Infrastructure vendors
-
-n8n and future hosting, gateway, logging, and storage providers
-
-May be GDPR processors or sub-processors requiring contracts and security controls.
-
-Affected persons
-
-Client, consultant, and identifiable people mentioned in inputs or research
-
-May be affected by unsupported, confidential, or misleading claims.
+Impacted stakeholders: the client, consultant, and identifiable people mentioned in inputs or research may be affected by unsupported, confidential, or misleading claims.
 
 4. Compliance findings
 
