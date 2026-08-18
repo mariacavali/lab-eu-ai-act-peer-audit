@@ -11,9 +11,17 @@ Intellectus researches public information about an organisation and prepares a s
 
 2. Risk classification
 
-The first-pass classification is limited risk / transparency. The documented purpose falls under neither Article 5 nor Annex III: it supports organisation-level consulting rather than deciding a person's access to employment, education, credit, benefits, law enforcement treatment, migration status, justice, or democratic participation. Article 50 is relevant because the consultant interacts with an AI-supported application and receives generated analytical content. Repurposing it for individual eligibility or another consequential decision would require reassessment.
+First-pass tier: limited risk / transparency.
 
-The high-risk provider checklist is therefore not applicable. No conformity assessment, CE marking, or Annex III registration is required for the documented purpose.
+Article 5: no prohibited practice is evidenced in the documented consulting workflow.
+
+Annex III: no listed high-risk area is evidenced. The system prepares organisation-level consulting analysis and does not decide a natural person's access to employment, education, credit, benefits, law enforcement treatment, migration status, justice, or democratic participation.
+
+Article 50: relevant. The consultant interacts with the system and receives generated findings, questions, recommendations, KPIs, and roadmap content, so transparency obligations apply to the AI-supported interaction and any published generated text.
+
+Boundary / uncertainty: this conclusion holds only while Intellectus remains advisory and preparatory. If the output is repurposed for consequential individual decisions, the tier must be reassessed.
+
+The high-risk provider checklist is therefore not applicable on the evidence reviewed. No conformity assessment, CE marking, or Annex III registration is required for the documented purpose.
 
 3. Role map
 
@@ -25,7 +33,7 @@ Principal obligations
 
 Provider / downstream provider
 
-Gretel and Paola's team or a future Intellectus entity
+Gretel and Paola's team; any future Intellectus entity that materially repackages or redistributes the system would need to re-check downstream provider duties
 
 Implement Article 50 disclosure and applicable output marking; document purpose, limits, and vendors; ensure AI literacy under Article 4.
 
@@ -37,7 +45,7 @@ Follow instructions, review client-facing content, ensure AI literacy, and discl
 
 AI/model and research vendors
 
-Not identified
+Not identified / unconfirmed
 
 Meet duties applying to their systems and provide downstream technical and provenance information.
 

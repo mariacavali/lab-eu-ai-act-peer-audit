@@ -1,4 +1,4 @@
-ntellectus — Peer-Audit Evidence and Clarifying-Questions Log
+Intellectus — Peer-Audit Evidence and Clarifying-Questions Log
 
 Auditor: Elza Paegle
 Project builders: Gretel and Paola
@@ -29,6 +29,10 @@ docs/ARCHITECTURE_FREEZE.md
 workflows/WORKFLOW_MAP.md
 
 docs/INTELLECTUS_AUDIT_GUIDE.md was deliberately not reviewed because it could contain the builders' own audit conclusions or live-audit interpretation.
+
+Independent-review statement
+
+This evidence log was prepared as an independent audit. The builders' self-audit conclusions were not used to form the first-pass classification or the findings below.
 
 Phase 1 — Annotated evidence
 
